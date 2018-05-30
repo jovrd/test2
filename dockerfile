@@ -1,5 +1,5 @@
 
 FROM ubuntu
 USER root
-RUN ls
+RUN ls -l
 USER ubuntu
